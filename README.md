@@ -7,5 +7,5 @@ Professor Sherin Aly
 [Milestone Two Narrative](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/Milestone%20Two%20Narrative.docx)  
 [Milestone Three Narrative](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/Milestone%20Three%20Narrative_Kaetochi%20Okpukpara.docx)  
 [Milestone Four Narrative](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/Milestone%20Four%20Narrative_Kaetochi%20Okpukpara.docx)  
-[Original artifact ZIP file](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/CS360_Project_Three_Kaetochi%20Okpukpara.zip)  
-[Enhanced artifact ZIP file](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/CS499_CS360_Project_Kaetochi%20Okpukpara.zip)  
+[Original Artifact ZIP file](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/CS360_Project_Three_Kaetochi%20Okpukpara.zip)  
+[Enhanced Artifact ZIP file](https://github.com/kaetochiokpukpara/kaetochiokpukpara.github.io/blob/main/CS499_CS360_Project_Kaetochi%20Okpukpara.zip)  
